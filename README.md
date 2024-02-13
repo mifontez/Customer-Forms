@@ -1,6 +1,6 @@
 # My project
 
-Welcome to my project! This project features a website with a customer forms page.
+Customer-Forms with HTML + CSS
 
 ## Open the site
 
