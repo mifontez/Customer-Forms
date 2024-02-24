@@ -2,6 +2,6 @@
 
 Customer-Forms with HTML + CSS
 
-## Open the site
+## Link
 
 Available here ---> (https://mifontez.github.io/Customer-Forms/).
